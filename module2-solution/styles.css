@@ -44,13 +44,16 @@ section{
 }
 
 @media (min-width: 992px){
-	div.contentpane{
+	div.des{
 		width: 31%;
-	}
+	}	
 }
 @media (min-width: 768px) and (max-width: 991px){
-	div.contentpane{
+	div.tab{
 		width: 47%;
+	}
+	div.mob{
+		width: 98%;
 	}
 }
 @media (max-width: 767px){
