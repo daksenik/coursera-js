@@ -19,7 +19,9 @@
 	border: 1px solid white;
 }
 
-
+.container{
+	margin-bottom: 15px;
+}
 
 #main-content{
 	box-sizing: border-box;
@@ -30,12 +32,15 @@
 }
 #information{
 	background-color: #FDAA71;
+	padding: 10px;
 }
 #information1{
 	background-color: #F5FD71;
+	padding: 10px;
 }
 #information2{
 	background-color: #71FD84;
+	padding: 10px;
 }
 .infheading{
 	font-size: 3em;
