@@ -1,0 +1,30 @@
+.navbar-brand a:hover, .navbar-brand a:focus{
+	text-decoration: none;
+}
+
+#collapsable-nav ul{
+	margin: 0;
+	padding: 0;
+}
+
+#collapsable-nav{
+	width: 100%;
+	background-color: #C1F2DC;
+}
+#nav-list{
+	text-align: center;
+	font-size: 2em;
+}
+.navbar{
+	background-color: #C1F2DC;
+}
+
+#heading{
+	font-weight: bold;
+	font-size: 5em;
+}
+
+#information{
+	background-color: #FDAA71;
+}
+
