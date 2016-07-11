@@ -1,7 +1,6 @@
-body{
-	margin: 0;
+* {
+  box-sizing: border-box;
 }
-
 .navbar-brand a:hover, .navbar-brand a:focus{
 	text-decoration: none;
 }
@@ -9,11 +8,16 @@ body{
 	width: 100%;
 	background-color: #C1F2DC;
 }
-#nav-list{
-	font-size: 2em;
+#nav-list {/*Drop Down Menu*/
+	margin: 0 -15px 0;
+	padding: 0;
+	background-color: #D5F5DC;
 }
 .navbar{
 	background-color: #C1F2DC;
+}
+.sep{
+	border: 1px solid white;
 }
 
 
